@@ -1,0 +1,8 @@
+app_name = "CircleCI-demo"
+
+environment = "development"
+
+[server]
+listen = ":8081"
+
+whitelist = ["*"]
